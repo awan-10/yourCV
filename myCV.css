@@ -1,0 +1,62 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";
+
+/* Default font. */
+body {
+font-family: "Open Sans","DejaVu Sans",sans-serif;
+font-weight: 300;
+margin-top: 10%;
+margin-bottom: 10%;
+}
+
+h1, h2, h3, h4 {
+font-style: normal;
+color: #121D40;
+font-weight: 300;
+}
+
+h1, h3 {
+margin-top: 1em;
+margin-bottom: 0;
+}
+
+h1 {
+font-size: 3em;
+text-align: center;
+}
+
+h2 {
+font-size: 1.7em;
+border-bottom: 1px solid silver;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+h3 {
+font-size:1.4em;
+}
+
+h4 {
+font-size:1.125em;
+}
+
+p, li {
+margin-top: 0;
+margin-bottom: 0;
+}
+
+ul {
+margin-top: 0.4em;
+margin-bottom: 0;
+}
+
+#header,#content {
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 0;
+margin-bottom: 0;
+position: relative;
+}
+
+#preamble {
+text-align: center;
+}
