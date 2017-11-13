@@ -1,13 +1,15 @@
 
 = NAME SURNAME
 :Address: 123 Main Street • Town • EH798FV • COUNTRY
-:Contact: Tel.Z +44 (0)997 777 777 • name@mail.com
+:Contact: Tel. +44 (0)997 777 777 •  name@mail.com
 
 _{Address}_ +
 _{Contact}_
 
 == PROFILE
 Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus. Sociis ornare sagittis justo neque augue hac parturient tempus purus porta conubia, arcu litora maecenas quis suspendisse diam aptent penatibus iaculis vivamus.
+
+{sp} +
 
 == SKILLS
 
@@ -16,6 +18,8 @@ Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
 
 === ANOTHER SKILL
 Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+
+{sp} +
 
 == EMPLOYMENT
 
@@ -32,7 +36,7 @@ City, Country, January 2015 – present
 
 === TITLE OF ROLE
 NAME OF EMPLOYER +
-City, Country, January 2015 – present
+City, Country, January 2007 – February 2012
 
 *   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
 * Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
