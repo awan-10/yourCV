@@ -6,7 +6,7 @@ asciidoctor -a nofooter -a stylesheet=yourCV.css yourCV.adoc
 
 3. Run the following to create a PDF
 
-wkhtmltopdf yourCV.html yourCV.pdf
+wkhtmltopdf --page-size Letter  yourCV.html yourCV.pdf
 
 Instructions are taken from: 
 

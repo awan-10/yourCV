@@ -2,9 +2,17 @@
 :showtitle!:
 :address: 2015 Neil Ave. • Columbus • OH 43210 • USA
 :contact: +1 614 360 8349 • ammar.ahmad.awan@gmail.com
+:website: http://cse.osu.edu/~awan.10
 
 _{address}_ +
-_{contact}_
+_{contact}_ +
+_{website}_
+
+== Research Interests
+
+High Performance Computing, Deep Learning, Scalable AI
+Systems, Parallel Computing, and Performance Evaluation and
+Characterization of High-Performance Systems 
 
 == Education
 
@@ -39,7 +47,8 @@ Final Project: Optimizing N-body Simulations for Multicore Compute Clusters
 
 '''
 
-== Professional Experience
+
+== Research and Development Experience
 
 * *Network Based Computing Lab (http://nbcl.cse.ohio-state.edu) at The Ohio State University, Columbus, OH*
 
@@ -88,38 +97,68 @@ Final Project: Optimizing N-body Simulations for Multicore Compute Clusters
 ** Research Assistant
 
 *** Analyzed and profiled performance of Gadget-2 code and proposed hybrid-parallelism to speed-up the simulations on multi-core clusters.
- 
+
+== Teaching and Mentoring Experience
+
+* Mentored undergradute and graduate students at The Ohio State University to work on various research and development projects.
+
+** Arpan Jain, Ph.D. student at OSU 
+** Quentin Anthony, Ph.D. Student at OSU
+** Vardaan Gangal, B.S Student at OSU
+
+* Mentored seven prospective M.S and Ph.D. students for GradAppLab (http://gradapplab.pk)
+
+* Developed and designed the overall curriculum, lectures, homework assignments, and labs for special-topic graduate course at OSU: _CSE 5194.01: Introduction to High Performance Deep Learning_ (Autumn '18 and Autumn '19)
+
 == Awards and Distinctions
 
-. *“IEEE TCHPC Travel Award”* for attending Supercomputing, SC ’19.
-. *“ACM Student Travel Award”* for participating in ACM Student Research Competition at SC ’17.
-. *“NSF Student Travel Award”* for attending ACM PPoPP ‘17.
-. *“Student Travel Award”* for attending HotI ’17.
-. *“Best Student Poster Award”* at ISC High-Performance Event (ISC ’19).
-. *“Best Paper Runner-up”* EuroMPI 2016, Edinburgh, UK.
-. *“O’Donnell Fellowship”* for Ph.D. in Computer Science and Engineering, OSU, USA (2014 - 2015).
-. *“Global IT Talents Program Scholarship”* for Masters Degree in South Korea (2011 - 2013).
-. *“President’s Gold Medal”* for highest CGPA in Bachelors Degree (NUST - 2008).
-. *“Rector’s Gold Medal”* for Best Final Year Project (NUST - 2008).
-. *“Best Industry Project”* award for the Final Year Project at NUST-SEECS Open House '08.
-. *“Merit Scholarship”* for 7 out of 8 semesters at NUST. (Awarded to students with 3.5 and above GPA).
-. *“Third Prize”* for presenting Project: Constella Platinum at All Pakistan software competition - Softcom '06.
-. *“Student Volunteer”* for SC ‘08, USA. (Selected but couldn’t travel).
+. _IEEE TCHPC Travel Award_ for presenting Doctoral Showcase at SC ’19.
+. _ACM Student Travel Award_ for participating in ACM Student Research Competition at SC ’17.
+. _NSF Student Travel Award_ for presenting S-Caffe at ACM PPoPP ‘17.
+. _Student Travel Award_ for presenting Tutorial at HotI ’17.
+. _Best Student Poster Award_ at ISC High-Performance Event (ISC ’19).
+. _Best Paper Runner-up_ at EuroMPI 2016, Edinburgh, UK.
+. _O’Donnell Fellowship_ (5 out of 1,400 applicants) for
+first year of Ph.D. studies at The Ohio State University (2014 - 2015).
+. _Global IT Talents Scholarship_ for Masters Degree in South Korea (2011 - 2013).
+. _President’s Gold Medal_ for highest CGPA in Bachelors Degree (NUST - 2008).
+. _Rector’s Gold Medal_ for Best Final Year Project (NUST - 2008).
+. _Best Industry Project Award_ for the Final Year Project at NUST-SEECS Open House '08.
+. _Merit Scholarship_ for 7 out of 8 semesters at NUST. (Awarded to students with 3.5 and above GPA).
+. _Third Prize_ for presenting Project: Constella Platinum at All Pakistan software competition - Softcom '06.
+. _Student Volunteer_ for SC ‘08, USA. (Selected but couldn’t travel).
  
  
 == Publications
 
 === Select
 
-. A. A. Awan, K. V. Manian, C-H Chu, H. Subramoni, and DK Panda, “Optimized Large-Message Broadcast for Deep Learning Workloads: MPI, MPI+NCCL, or NCCL2?”, *Parallel Computing*, Volume 85, Jul '19, Pages 141-152, https://doi.org/10.1016/j.parco.2019.03.005.
+. A. A. Awan, K. V. Manian, C-H Chu, H. Subramoni, and DK
+Panda, _Optimized Large-Message Broadcast for Deep Learning
+Workloads: MPI, MPI+NCCL, or NCCL2?_, Parallel Computing 
+(*PARCO '19*), Vol. 85, Pages 141-152, Jul 2019.
 
-. A. A. Awan, C-H Chu, X. Lu, H. Subramoni, and D. K. Panda, “OC-DNN: Exploiting Advanced Unified Memory Capabilities in CUDA 9 and Volta GPUs for Out-of-Core DNN Training”, 25th IEEE International Conference on High-Performance Computing, Data, Analytics, and Data Science (*HiPC*) '18, Dec '18. 
+. A. A. Awan, C-H Chu, X. Lu, H. Subramoni, and D. K. Panda,
+_OC-DNN: Exploiting Advanced Unified Memory Capabilities in
+CUDA 9 and Volta GPUs for Out-of-Core DNN Training_, 25th
+IEEE International Conference on High-Performance Computing,
+Data, Analytics, and Data Science (*HiPC '18*) '18, Dec 2018. 
 
-. A. A. Awan, C-H Chu, X. Lu, H. Subramoni, and DK Panda, "Can Unified-Memory support on Pascal and Volta GPUs enable Out-of-Core DNN Training?", ISC High-Performance (*ISC*) '18, June '18. *Best Student Poster Award*.
+. A. A. Awan, C-H Chu, X. Lu, H. Subramoni, and DK Panda,
+_Can Unified-Memory support on Pascal and Volta GPUs enable
+Out-of-Core DNN Training?_, ISC High-Performance (*ISC
+'18*), June 2018. *Best Student Poster Award*.
 
-. A. A. Awan, K. Hamidouche, J. Hashmi, and D. K. Panda, "S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable Deep Learning on Modern GPU Clusters”, 22nd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (*PPoPP*) '17, Feb ’17.
+. A. A. Awan, K. Hamidouche, J. Hashmi, and D. K. Panda,
+_S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable
+Deep Learning on Modern GPU Clusters_, 22nd ACM SIGPLAN
+Symposium on Principles and Practice of Parallel Programming
+(*PPoPP '17*), Feb 2017.
 
-. A. A. Awan, K. Hamidouche, A. Venkatesh, and D. K. Panda, “Efficient Large Message Broadcast using NCCL and CUDA-Aware MPI for Deep Learning”, 23rd European MPI Users' Group Meeting (*EuroMPI*) ‘16, Sep '16. *Best Paper Runner-Up*.
+. A. A. Awan, K. Hamidouche, A. Venkatesh, and D. K. Panda,
+_Efficient Large Message Broadcast using NCCL and CUDA-Aware
+MPI for Deep Learning_, 23rd European MPI Users' Group
+Meeting (*EuroMPI '16*), Sep 2016. *Best Paper Runner-Up*.
 
 
 === All Publications
@@ -128,95 +167,208 @@ _Most updated list of publications is available from my https://scholar.google.c
 
 ====  Journal Articles
  
-. A. A. Awan, A. Jain, C-H Chu, H. Subramoni, and DK Panda, “Communication Profiling and Characterization of Deep Learning Workloads on Clusters with High-Performance Interconnects”, IEEE Micro ’19 (to appear in).
+. A. A. Awan, A. Jain, C-H Chu, H. Subramoni, and DK Panda,
+_Communication Profiling and Characterization of Deep
+Learning Workloads on Clusters with High-Performance
+Interconnects_, IEEE Micro (Early Access: doi:
+10.1109/MM.2019.2949986).
  
-. A. A. Awan, K. V. Manian, C-H Chu, H. Subramoni, and DK Panda, “Optimized Large-Message Broadcast for Deep Learning Workloads: MPI, MPI+NCCL, or NCCL2?”, Parallel Computing, Volume 85, July 2019, Pages 141-152, https://doi.org/10.1016/j.parco.2019.03.005.
+. A. A. Awan, K. V. Manian, C-H Chu, H. Subramoni, and DK
+Panda, _Optimized Large-Message Broadcast for Deep Learning
+Workloads: MPI, MPI+NCCL, or NCCL2?_, Parallel Computing
+(PARCO '19), Vol. 85, Pages 141-152, July 2019.
  
-. C-H Chu, X. Lu, A. A. Awan, H. Subramoni, Bracy Elton, and DK Panda, Exploiting Hardware Multicast and GPUDirect RDMA for Efficient Broadcast, IEEE Transactions on Parallel and Distributed Systems (TPDS '18), vol. 30, no. 3.
+. C-H Chu, X. Lu, A. A. Awan, H. Subramoni, Bracy Elton, and
+DK Panda, _Exploiting Hardware Multicast and GPUDirect RDMA
+for Efficient Broadcast_, IEEE Transactions on Parallel and
+Distributed Systems (TPDS '19), Vol. 30, No. 3, Pages
+575-588, Mar 2019.
  
-. K. Hamidouche, A. Venkatesh, A. A. Awan, H. Subramoni, and D. K. Panda, “CUDA-Aware OpenSHMEM: Extensions and Designs for High Performance OpenSHMEM on GPU Clusters”, Parallel Computing, Volume 58, October 2016, Pages 27-36.
- 
-. Z. Pervez, A. A. Awan, A. M. Khattak, S. Y. Lee, and Eui-Nam Huh, “Privacy-aware searching with oblivious term matching for cloud storage”, Journal of Supercomputing (2013).
+. K. Hamidouche, A. Venkatesh, A. A. Awan, H. Subramoni, and D. K. 
+Panda, _CUDA-Aware OpenSHMEM: Extensions and Designs
+for High Performance OpenSHMEM on GPU Clusters_, Parallel
+Computing (PARCO '16), Vol. 58, Pages 27-36, Oct 2016.
+
+. Z. Pervez, A. A. Awan, A. M. Khattak, S. Y. Lee, and
+Eui-Nam Huh, _Privacy-aware searching with oblivious term
+matching for cloud storage_, Journal of Supercomputing, Vol.
+63, Issue 2, Pages 538–560, Feb 2013.
  
 ==== Refereed Conference/Workshop Papers
  
-. A. Jain, A. A. Awan, H. Subramoni, and DK Panda, “Scaling TensorFlow, PyTorch, and MXNet using MVAPICH2 for High-Performance Deep Learning on Frontera”, 3rd Deep Learning on Supercomputers Workshop, to be held in conjunction with SC ‘19
+. A. Jain, A. A. Awan, H. Subramoni, and DK Panda, _Scaling
+TensorFlow, PyTorch, and MXNet using MVAPICH2 for
+High-Performance Deep Learning on Frontera_, 3rd Deep
+Learning on Supercomputers Workshop, held in
+conjunction with SC ‘19, Nov 2019.
  
-. A. Jain, A. A. Awan, Q. Anthony, H. Subramoni, and DK Panda, “Performance Characterization of DNN Training using TensorFlow and PyTorch on Modern Clusters”, 21st IEEE International Conference on Cluster Computing, (Cluster ‘19).
+. A. Jain, A. A. Awan, Q. Anthony, H. Subramoni, and DK
+Panda, _Performance Characterization of DNN Training using
+TensorFlow and PyTorch on Modern Clusters_, 21st IEEE
+International Conference on Cluster Computing, (Cluster
+'19), Sep 2019.
+
+. A. A. Awan, A. Jain, C-H Chu, H. Subramoni, and D. K.
+Panda, _Communication Profiling and Characterization of Deep
+Learning Workloads on Clusters with High-Performance
+Interconnects_, 26th Symposium on High-Performance
+Interconnects (HotI ’19), Aug 2019.
  
-. A. A. Awan, A. Jain, C-H Chu, H. Subramoni, and D. K. Panda, “Communication Profiling and Characterization of Deep Learning Workloads on Clusters with High-Performance Interconnects”, 26th Symposium on High-Performance Interconnects (HotI ’19).
+. A. A. Awan, J. Bedorf, C-H Chu, H. Subramoni, and D. K. Panda, 
+_Scalable Distributed DNN Training using TensorFlow and
+CUDA-Aware MPI: Characterization, Designs, and Performance
+Evaluation_, 19th IEEE/ACM International Symposium on
+Cluster, Cloud and Grid Computing (CCGrid '19), May 2019.
+
  
-. A. A. Awan, J. Bedorf, C-H Chu, H. Subramoni, and D. K. Panda, “Scalable Distributed DNN Training using TensorFlow and CUDA-Aware MPI: Characterization, Designs, and Performance Evaluation”, in Proceedings of IEEE/ACM CCGrid '19.
+. K. Vadambacheri Manian, A. A. Awan, A. Ruhela, C. Chu, 
+and D. K. Panda, _Characterizing CUDA Unified Memory (UM)-Aware
+MPI Designs on Modern GPU Architectures_, 12th Workshop on
+General Purpose Processing Using GPU (GPGPU '19), held in
+conjunction with
+ASPLOS '19, Apr 2019.
  
-. K. Vadambacheri Manian, A. A. Awan, A. Ruhela, C. Chu, and D. K. Panda, “Characterizing CUDA Unified Memory (UM)-Aware MPI Designs on Modern GPU Architectures”, 12th Workshop on General Purpose Processing Using GPU (GPGPU '19), held with ASPLOS '19.
+. A. A. Awan, C-H Chu, X. Lu, H. Subramoni, and D. K. Panda,
+_OC-DNN: Exploiting Advanced Unified Memory Capabilities in
+CUDA 9 and Volta GPUs for Out-of-Core DNN Training_, IEEE
+25th International Conference on High Performance Computing
+(HiPC '18), Dec 2018.
+
+. A. A. Awan, C-H Chu, H. Subramoni, D. K. Panda, _Optimized
+Broadcast for Deep Learning Workloads on Dense-GPU
+InfiniBand Clusters: MPI or NCCL?_, 25th European MPI Users'
+Group Meeting (EuroMPI '18), Sep 2018.
  
-. A. A. Awan, C-H Chu, X. Lu, H. Subramoni, and D. K. Panda, “OC-DNN: Exploiting Advanced Unified Memory Capabilities in CUDA 9 and Volta GPUs for Out-of-Core DNN Training”, in Proceedings of IEEE HiPC '18.
+. A. A. Awan, H. Subramoni, D. K. Panda, _An In-depth
+Performance Characterization of CPU- and GPU-based DNN
+Training on Modern Architectures_, 3rd Workshop on Machine
+Learning in HPC Environments (MLHPC ‘17), held in
+conjunction with SC ’17,
+Nov 2017.
  
-. A. A. Awan, C-H Chu, H. Subramoni, D. K. Panda, “Optimized Broadcast for Deep Learning Workloads on Dense-GPU InfiniBand Clusters: MPI or NCCL?”, in Proceedings of EuroMPI ’18.
+. C-H Chu, X. Lu, A. A. Awan, H. Subramoni, J. Hashmi, Bracy
+Elton, and DK Panda, _Efficient and Scalable Multi-Source
+Streaming Broadcast on GPU Clusters for Deep Learning_,
+International Conference on Parallel Processing (ICPP '17), Aug
+2017.
  
-. A. A. Awan, H. Subramoni, D. K. Panda, An In-depth Performance Characterization of CPU- and GPU-based DNN Training on Modern Architectures, 3rd Workshop on Machine Learning in HPC Environments (MLHPC ‘17), held with SC ’17.
+. A. A. Awan, K. Hamidouche, J. Hashmi, and D. K. Panda,
+_S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable
+Deep Learning on Modern GPU Clusters_, 22nd ACM SIGPLAN
+Symposium on Principles and Practice of Parallel Programming
+(PPoPP '17), Feb 2017.
+
+. K. Hamidouche, A. A. Awan, A. Venkatesh, and D. K. Panda,
+“CUDA M3: Designing Efficient CUDA Managed Memory-aware MPI
+by Exploiting GDR and IPC”, 23rd IEEE International
+Conference on High Performance Computing, Data, and
+Analytics, Dec ’16.
  
-. C-H Chu, X. Lu, A. A. Awan, H. Subramoni, J. Hashmi, Bracy Elton, and DK Panda, “Efficient and Scalable Multi-Source Streaming Broadcast on GPU Clusters for Deep Learning”, International Conference on Parallel Processing (ICPP), Aug ’17.
+. A. A. Awan, K. Hamidouche, A. Venkatesh, and D. K. Panda,
+“Efficient Large Message Broadcast using NCCL and CUDA-Aware
+MPI for Deep Learning”, 23rd European MPI Users' Group
+Meeting (EuroMPI ‘16). *Best Paper Runner-Up*.
  
-. A. A. Awan, K. Hamidouche, J. Hashmi, and D. K. Panda, “S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable Deep Learning on Modern GPU Clusters”, 22nd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Feb ’17.
+. C. Chu, K. Hamidouche, A. Venkatesh, A. A. Awan, and D. K.
+Panda, “CUDA Kernel based Collective Reduction Operations on
+Large-scale GPU Clusters”, 16th IEEE/ACM International
+Symposium on Cluster, Cloud and Grid Computing (CCGrid
+‘16).
  
-. K. Hamidouche, A. A. Awan, A. Venkatesh, and D. K. Panda, “CUDA M3: Designing Efficient CUDA Managed Memory-aware MPI by Exploiting GDR and IPC”, 23rd IEEE International Conference on High Performance Computing, Data, and Analytics, Dec ’16.
+. A. A. Awan, K. Hamidouche, A. Venkatesh, J. Perkins, H.
+Subramoni, and D. K. Panda, “GPU-Aware Design,
+Implementation, and Evaluation of Non-blocking Collective
+Benchmark”, EuroMPI ’15.
  
-. A. A. Awan, K. Hamidouche, A. Venkatesh, and D. K. Panda, “Efficient Large Message Broadcast using NCCL and CUDA-Aware MPI for Deep Learning”, 23rd European MPI Users' Group Meeting (EuroMPI ‘16). *Best Paper Runner-Up*.
+. K. Hamidouche, A. Venkatesh, A. A. Awan, H. Subramoni, 
+and D. K. Panda, “Exploiting GPUDirect RDMA in Designing High
+Performance OpenSHMEM for NVIDIA GPU Clusters” IEEE Cluster
+2015, Sep ’15.
  
-. C. Chu, K. Hamidouche, A. Venkatesh, A. A. Awan, and D. K. Panda, “CUDA Kernel based Collective Reduction Operations on Large-scale GPU Clusters”, 16th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid ‘16).
+. A. A. Awan, K. Hamidouche, C. Chu, and D. K. Panda, “A
+Case for Non-Blocking Collectives in OpenSHMEM: Design,
+Implementation, and Performance Evaluation using
+MVAPICH2-X”, OpenSHMEM 2015 for PGAS Programming in the
+Exascale Era, Aug ‘15.
  
-. A. A. Awan, K. Hamidouche, A. Venkatesh, J. Perkins, H. Subramoni, and D. K. Panda, “GPU-Aware Design, Implementation, and Evaluation of Non-blocking Collective Benchmark”, EuroMPI ’15.
+. H. Subramoni, A. A. Awan, K. Hamidouche, D. Pekurovsky, A.
+Venkatesh, S. Chakraborty, K. Tomko, and D. K. Panda,
+“Designing Non-Blocking Personalized Collectives with Near
+Perfect Overlap for RDMA-Enabled Clusters”, ISC High
+Performance 2015 (ISC '15), Jul ’15.
  
-. K. Hamidouche, A. Venkatesh, A. A. Awan, H. Subramoni, and D. K. Panda, “Exploiting GPUDirect RDMA in Designing High Performance OpenSHMEM for NVIDIA GPU Clusters” IEEE Cluster 2015, Sep ’15.
+. S. Chakraborty, H. Subramoni, J. Perkins, A. A. Awan, 
+and D. K. Panda, “On-demand Connection Management for OpenSHMEM
+and OpenSHMEM+MPI” HIPS '15 (IPDPS Workshop), May ’15.
  
-. A. A. Awan, K. Hamidouche, C. Chu, and D. K. Panda, “A Case for Non-Blocking Collectives in OpenSHMEM: Design, Implementation, and Performance Evaluation using MVAPICH2-X”, OpenSHMEM 2015 for PGAS Programming in the Exascale Era, Aug ‘15.
+. A. A. Awan, M. S. Ayub, A. Shafi and S. Lee, "Towards
+Efficient Support for Parallel I/O in Java HPC," 2012 13th
+International Conference on Parallel and Distributed
+Computing, Applications and Technologies, Beijing, Dec ’12.
  
-. H. Subramoni, A. A. Awan, K. Hamidouche, D. Pekurovsky, A. Venkatesh, S. Chakraborty, K. Tomko, and D. K. Panda, “Designing Non-Blocking Personalized Collectives with Near Perfect Overlap for RDMA-Enabled Clusters”, ISC High Performance 2015 (ISC '15), Jul ’15.
- 
-. S. Chakraborty, H. Subramoni, J. Perkins, A. A. Awan, and D. K. Panda, “On-demand Connection Management for OpenSHMEM and OpenSHMEM+MPI” HIPS '15 (IPDPS Workshop), May ’15.
- 
-. A. A. Awan, M. S. Ayub, A. Shafi and S. Lee, "Towards Efficient Support for Parallel I/O in Java HPC," 2012 13th International Conference on Parallel and Distributed Computing, Applications and Technologies, Beijing, Dec ’12.
- 
-. M. B. Amin, W. A. Khan, A. A. Awan, and S. Y. Lee, “Intercloud Message Exchange Middleware”, 6th International Conference on Ubiquitous Information Management and Communication (ICUIMC '12).
+. M. B. Amin, W. A. Khan, A. A. Awan, and S. Y. Lee,
+“Intercloud Message Exchange Middleware”, 6th International
+Conference on Ubiquitous Information Management and
+Communication (ICUIMC '12).
 
 === Posters
 
-. A. A. Awan and DK Panda, "Co-designing Communication Middleware and Deep Learning Frameworks for High-Performance DNN Training on HPC Systems", (To be presented), Doctoral Showcase @ SC '19, Denver, CO, Nov '19. 
+. A. A. Awan and DK Panda, "Co-designing Communication
+Middleware and Deep Learning Frameworks for High-Performance
+DNN Training on HPC Systems", (To be presented), Doctoral
+Showcase @ SC '19, Denver, CO, Nov '19.
 
-. A. A. Awan, H. Subramoni, and DK Panda, "Exploiting CUDA Unified Memory for Efficient Out-of-Core DNN Training", NVIDIA GTC '19, San Jose, April '19.
+. A. A. Awan, H. Subramoni, and DK Panda, "Exploiting CUDA
+Unified Memory for Efficient Out-of-Core DNN Training",
+NVIDIA GTC '19, San Jose, April '19.
 
-. A. A. Awan, C-H Chu, X. Lu, H. Subramoni, and DK Panda, "Can Unified-Memory support on Pascal and Volta GPUs enable Out-of-Core DNN Training?", ISC High-Performance (ISC) '18, Germany, June, 2018. *Best Student Poster Award*. 
+. A. A. Awan, C-H Chu, X. Lu, H. Subramoni, and DK Panda,
+"Can Unified-Memory support on Pascal and Volta GPUs enable
+Out-of-Core DNN Training?", ISC High-Performance (ISC) '18,
+Germany, June, 2018. *Best Student Poster Award*.
 
-. A. A. Awan and DK Panda, "Co-designing MPI Runtimes and Deep Learning Frameworks for Scalable Distributed Training on GPU Clusters", ACM Student Research Competition (SRC) poster at SC '17, Denver, CO, Nov '17.
+. A. A. Awan and DK Panda, "Co-designing MPI Runtimes and
+Deep Learning Frameworks for Scalable Distributed Training
+on GPU Clusters", ACM Student Research Competition (SRC)
+poster at SC '17, Denver, CO, Nov '17.
 
-. A. A. Awan, M. B. Amin, S. Hussain, A. Shafi, S. Y. Lee, “An MPI-IO Compliant Java based Parallel I/O Library (Poster)”, 13th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid '13), Delft, Netherlands, May ’13.
+. A. A. Awan, M. B. Amin, S. Hussain, A. Shafi, S. Y. Lee,
+“An MPI-IO Compliant Java based Parallel I/O Library
+(Poster)”, 13th IEEE/ACM International Symposium on Cluster,
+Cloud and Grid Computing (CCGrid '13), Delft, Netherlands,
+May ’13.
 
-== Talks/Tutorials
+== Talks/Invited Tutorials
  
-. *“High Performance Distributed Deep Learning: A Beginner’s Guide”*, SC ’19 (To be presented).
-. *“High Performance Architectures for Distributed Deep Learning”*, MICRO ’19, Oct 13, 2019.
-. *“HPC Meets Distributed Deep Learning”*, Hot Interconnects (HotI) ’19, Aug 14, 2019.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, PEARC '19, Jul 29, 2019.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, ISCA '19, Jun 22, 2019.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, ISC '19, Jun 16, 2019.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, CCGrid '19, May 15, 2019.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, NCAR SEA '19, Apr 12, 2019.
-. *“How to Boost the Performance of HPC/AI Applications Using MVAPICH2 Library”* GTC '19, Mar 20, 2019.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, GTC '19, Mar 18, 2019.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, PPoPP '19, Feb 17, 2019.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, DOD-PETTT '18, May 15, 2018.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, NCAR SEA '18, Apr 5, 2018.
-. *“High-Performance Distributed Deep Learning: A Beginner's Guide”*, PPoPP '18, Feb 25, 2018.
-. *“High-Performance Distributed Deep Learning for Dummies”*, IT4 Innovations (Austria), Jan 24, 2018.
-. *“High Performance Distributed Deep Learning for Dummies”*, Hot Interconnects (HotI) '17, Aug 28, 2017.
-. *“S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable Deep Learning on Modern GPU Clusters”*, PPoPP ’17, Austin TX.
-. *“Efficient Large Message Broadcast using NCCL and CUDA-Aware MPI for Deep Learning”*, Best Paper Runner-up Session, EuroMPI ’16 @ EPCC Edinburgh UK.
-. *“Why Execution is more important than Ideas”*, Invited Talk at CECOS University, Peshawar, Pakistan.
+. “High Performance Distributed Deep Learning: A Beginner’s Guide”, NVIDIA GTC ’20 (Accepted; To be presented).
+. “High Performance Distributed Deep Learning: A Beginner’s Guide”, SC ’19 
+. “High Performance Architectures for Distributed Deep Learning”, MICRO ’19, Oct 13, 2019.
+. “HPC Meets Distributed Deep Learning”, Hot Interconnects (HotI) ’19, Aug 14, 2019.
+. “High-Performance Distributed Deep Learning: A Beginner's Guide”, PEARC '19, Jul 29, 2019.
+. “High-Performance Distributed Deep Learning: A Beginner's Guide", ISCA '19, Jun 22, 2019.
+. “High-Performance Distributed Deep Learning: A Beginner's Guide”, ISC '19, Jun 16, 2019.
+. “High-Performance Distributed Deep Learning: A Beginner's Guide”, CCGrid '19, May 15, 2019.
+. “High-Performance Distributed Deep Learning: A Beginner's Guide”, NCAR SEA '19, Apr 12, 2019.
+. “How to Boost the Performance of HPC/AI Applications Using MVAPICH2 Library” NVIDIA GTC '19, Mar 20, 2019.
+. “High-Performance Distributed Deep Learning: A Beginner's Guide”, NVIDIA GTC '19, Mar 18, 2019.
+. “High-Performance Distributed Deep Learning: A Beginner's Guide”, PPoPP '19, Feb 17, 2019.
+. “High-Performance Distributed Deep Learning: A Beginner's Guide”, DOD-PETTT '18, May 15, 2018.
+. “High-Performance Distributed Deep Learning: A Beginner's Guide”, NCAR SEA '18, Apr 5, 2018.
+. "High-Performance Distributed Deep Learning: A Beginner's Guide”, PPoPP '18, Feb 25, 2018.
+. “High-Performance Distributed Deep Learning for Dummies”, IT4 Innovations (Austria), Jan 24, 2018.
+. “High Performance Distributed Deep Learning for Dummies”, Hot Interconnects (HotI) '17, Aug 28, 2017.
+. “S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable Deep Learning on Modern GPU Clusters”, PPoPP ’17, Austin TX.
+. “Efficient Large Message Broadcast using NCCL and CUDA-Aware MPI for Deep Learning", Best Paper Runner-up Session, EuroMPI ’16 @ EPCC Edinburgh UK.
+. “Why Execution is more important than Ideas”*, Invited Talk at CECOS University, Peshawar, Pakistan.
  
 == Professional Service
  
+=== Memberships
+. ACM Student Member
+. IEEE Student Member
+
 === Reviewer
+. IPDPS '20. 
 . PyOhio ’19.
 . 32nd ACM International Conference on Supercomputing (ICS ‘18).
 . Intl. Conference on High Performance Computing, Networking, Storage, and Analysis (SC ’17).
@@ -230,6 +382,9 @@ _Most updated list of publications is available from my https://scholar.google.c
 . OSU Booth, Supercomputing (SC) '17, '18, and '19.
 . MVAPICH Users Group Meeting (MUG) ’16, ’17, and ’19.
 . IEEE ICDCS 2015.
+
+=== Forums Attended 
+. Message Passing Interface (MPI) Forum (2015)
  
 == Technical Skills
 
