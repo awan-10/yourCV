@@ -458,3 +458,40 @@ Hot Interconnects (HotI '17) Aug 28, 2017. (50)
 * Understanding of web technologies including HTML, DHTML, CSS, XML, XSLT and XPath.
 * Strong communication and presentation skills
 ** Delivered several elaborate presentations on technical projects like OSU-Caffe, High-Performance Deep Learning (HiDL), MVAPICH2, Constella, Gadget-2, Oil Reservoir Simulators, and MPJ-IO.
+
+== References
+
+. Dhabaleswar Kumar (DK) Panda, Professor.
+ 
+ Dept. of Computer Science and Engineering
+ Dreese Lab 785 
+ The Ohio State University 
+ 2015 Neil Avenue 
+ Columbus, OH-43210, USA 
+ Tel: (614) 292-5199
+ Fax: (614) 292-2911
+ Email: panda@cse.ohio-state.edu
+ Website: http://web.cse.ohio-state.edu/~panda.2/
+ Twitter: @dhabalkpanda
+
+. Gagan Agrawal, Professor.
+
+ Dept. of Computer Science and Engineering
+ Dreese Lab 781 
+ The Ohio State University 
+ 2015 Neil Avenue 
+ Columbus, OH-43210, USA 
+ Phone: (614)  688-8450 
+ Fax: (614) 292-2911 
+ Email: agrawal@cse.ohio-state.edu
+ Website: http://web.cse.ohio-state.edu/~agrawal.28/
+
+. Radu Teodorescu, Associate Professor.
+
+ Dept. of Computer Science and Engineering
+ Dreese Lab 797 
+ The Ohio State University 
+ 2015 Neil Avenue 
+ Columbus, OH-43210, USA 
+ Email: teodores@cse.ohio-state.edu
+ Website: http://web.cse.ohio-state.edu/~teodorescu.1/
