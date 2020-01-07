@@ -10,9 +10,11 @@ _{website}_
 
 == Research Interests
 
-High Performance Computing, Deep Learning, Scalable AI
-Systems, Parallel Computing, and Performance Evaluation and
-Characterization of High-Performance Systems 
+My broad interests lie at the interesection of High
+Performance Computing (HPC) and Machine Learning (ML). I am
+actively investigating new approaches to improve performance
+and productivity of scalable software systems for HPC and
+ML.
 
 == Education
 
@@ -47,10 +49,61 @@ Final Project: Optimizing N-body Simulations for Multicore Compute Clusters
 
 '''
 
+== Select Publications
+
+_I am the lead author of the following publications._
+
+. *A. A. Awan*, K. V. Manian, C-H Chu, H. Subramoni, and DK
+Panda, _Optimized Large-Message Broadcast for Deep Learning
+Workloads: MPI, MPI+NCCL, or NCCL2?_, Parallel Computing 
+(*PARCO '19*), Vol. 85, Pages 141-152, Jul 2019.
+
+. *A. A. Awan*, C-H Chu, X. Lu, H. Subramoni, and D. K. Panda,
+_OC-DNN: Exploiting Advanced Unified Memory Capabilities in
+CUDA 9 and Volta GPUs for Out-of-Core DNN Training_, 25th
+IEEE International Conference on High-Performance Computing,
+Data, Analytics, and Data Science (*HiPC '18*) '18, Dec 2018.
+
+. *A. A. Awan*, C-H Chu, X. Lu, H. Subramoni, and DK Panda,
+_Can Unified-Memory support on Pascal and Volta GPUs enable
+Out-of-Core DNN Training?_, ISC High-Performance (*ISC
+'18*), June 2018. *Best Student Poster Award*.
+
+. *A. A. Awan*, K. Hamidouche, J. Hashmi, and D. K. Panda,
+_S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable
+Deep Learning on Modern GPU Clusters_, 22nd ACM SIGPLAN
+Symposium on Principles and Practice of Parallel Programming
+(*PPoPP '17*), Feb 2017.
+
+. *A. A. Awan*, K. Hamidouche, A. Venkatesh, and D. K. Panda,
+_Efficient Large Message Broadcast using NCCL and CUDA-Aware
+MPI for Deep Learning_, 23rd European MPI Users' Group
+Meeting (*EuroMPI '16*), Sep 2016. *Best Paper Runner-Up*.
+
+
+== Awards and Distinctions
+
+. _IEEE TCHPC Travel Award_ for presenting Doctoral Showcase at SC ’19.
+. _ACM Student Travel Award_ for participating in ACM Student Research Competition at SC ’17.
+. _NSF Student Travel Award_ for presenting S-Caffe at ACM PPoPP ‘17.
+. _Student Travel Award_ for presenting Tutorial at HotI ’17.
+. _Best Student Poster Award_ at ISC High-Performance Event (ISC ’19).
+. _Best Paper Runner-up_ at EuroMPI 2016, Edinburgh, UK.
+. _O’Donnell Fellowship_ (5/1,400 applicants) for
+first year of Ph.D. studies at The Ohio State University
+(2015).
+. _Global IT Talents Scholarship_ for Masters Degree in South Korea (2011 - 2013).
+. _President’s Gold Medal_ for highest CGPA in Bachelors Degree (NUST - 2008).
+. _Rector’s Gold Medal_ for Best Final Year Project (NUST - 2008).
+. _Best Industry Project Award_ for the Final Year Project at NUST-SEECS Open House '08.
+. _Merit Scholarship_ for 7 out of 8 semesters at NUST. (Awarded to students with 3.5 and above GPA).
+. _Third Prize_ for presenting Project: Constella Platinum at All Pakistan software competition - Softcom '06.
+. _Student Volunteer_ for SC ‘08, USA. (Selected but couldn’t travel).
+
 
 == Research and Development Experience
 
-* *Network Based Computing Lab (http://nbcl.cse.ohio-state.edu) at The Ohio State University, Columbus, OH*
+* *Network Based Computing Lab (http://nbcl.cse.ohio-state.edu) at The Ohio State University*
 
 ** Graduate Research Assistant (Aug ‘14 – present)
 
@@ -71,7 +124,6 @@ Library being used by more than 3,000 organizations around
 the world. It has been downloded 613,000 times directly from
 the project site (http://mvapich.cse.ohio-state.edu).
  
-
 * *X-Scale Solutions (http://x-scalesolutions.com), Columbus, OH*
 
 ** Research Intern (May ‘19—Aug ’19)
@@ -83,13 +135,18 @@ TensorFlow/Horovod on Large Scale HPC Systems like Summit
 *** Implemented one-click installers for X-Scale products
 (X-ScaleAI and X-ScaleHPC).
  
-* *Microsoft Research, Redmond, WA*
+* *Microsoft Research (MSR), Redmond, WA*
 
-** Research Intern (May ’18 – Aug’18)
+** Research Intern with the RiSE Group at MSR (May ’18 – Aug’18)
 
-*** Assisted in design and evaluation of semantics-preserving SGD codes for CPUs in Azure cloud.
-*** Developed code to evaluate Criteo’s Ad clicks prediction at scale using TensorFlow on Cloud-based systems like Google Cloud ML, Amazon SageMaker, and Azure BatchAI.
+*** Mentors: Madan Musuvathi, Todd Mytkowicz, and Saeed Maleki.
+*** Assisted in design and evaluation of
+semantics-preserving SGD codes that scale to hundreds of
+CPUs.
+*** Designed and developed code/experiments to evaluate
+Criteo’s Ad-click prediction at scale using TensorFlow on Cloud-based systems like Google Cloud ML, Amazon SageMaker, and Azure BatchAI.
  
+
 * *iFaST Solutions Pvt. Ltd, Peshawar, Pakistan*
 
 ** Vice President: Innovation (Jun ‘13 – Jun ‘14)
@@ -129,62 +186,11 @@ development delays faced by the company.
 
 * Developed and designed the overall curriculum, lectures, homework assignments, and labs for special-topic graduate course at OSU: _CSE 5194.01: Introduction to High Performance Deep Learning_ (Autumn '18 and Autumn '19)
 
-== Awards and Distinctions
-
-. _IEEE TCHPC Travel Award_ for presenting Doctoral Showcase at SC ’19.
-. _ACM Student Travel Award_ for participating in ACM Student Research Competition at SC ’17.
-. _NSF Student Travel Award_ for presenting S-Caffe at ACM PPoPP ‘17.
-. _Student Travel Award_ for presenting Tutorial at HotI ’17.
-. _Best Student Poster Award_ at ISC High-Performance Event (ISC ’19).
-. _Best Paper Runner-up_ at EuroMPI 2016, Edinburgh, UK.
-. _O’Donnell Fellowship_ (5 out of 1,400 applicants) for
-first year of Ph.D. studies at The Ohio State University (2014 - 2015).
-. _Global IT Talents Scholarship_ for Masters Degree in South Korea (2011 - 2013).
-. _President’s Gold Medal_ for highest CGPA in Bachelors Degree (NUST - 2008).
-. _Rector’s Gold Medal_ for Best Final Year Project (NUST - 2008).
-. _Best Industry Project Award_ for the Final Year Project at NUST-SEECS Open House '08.
-. _Merit Scholarship_ for 7 out of 8 semesters at NUST. (Awarded to students with 3.5 and above GPA).
-. _Third Prize_ for presenting Project: Constella Platinum at All Pakistan software competition - Softcom '06.
-. _Student Volunteer_ for SC ‘08, USA. (Selected but couldn’t travel).
- 
- 
-== Publications
-
-=== Select
-
-. *A. A. Awan*, K. V. Manian, C-H Chu, H. Subramoni, and DK
-Panda, _Optimized Large-Message Broadcast for Deep Learning
-Workloads: MPI, MPI+NCCL, or NCCL2?_, Parallel Computing 
-(*PARCO '19*), Vol. 85, Pages 141-152, Jul 2019.
-
-. *A. A. Awan*, C-H Chu, X. Lu, H. Subramoni, and D. K. Panda,
-_OC-DNN: Exploiting Advanced Unified Memory Capabilities in
-CUDA 9 and Volta GPUs for Out-of-Core DNN Training_, 25th
-IEEE International Conference on High-Performance Computing,
-Data, Analytics, and Data Science (*HiPC '18*) '18, Dec 2018. 
-
-. *A. A. Awan*, C-H Chu, X. Lu, H. Subramoni, and DK Panda,
-_Can Unified-Memory support on Pascal and Volta GPUs enable
-Out-of-Core DNN Training?_, ISC High-Performance (*ISC
-'18*), June 2018. *Best Student Poster Award*.
-
-. *A. A. Awan*, K. Hamidouche, J. Hashmi, and D. K. Panda,
-_S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable
-Deep Learning on Modern GPU Clusters_, 22nd ACM SIGPLAN
-Symposium on Principles and Practice of Parallel Programming
-(*PPoPP '17*), Feb 2017.
-
-. *A. A. Awan*, K. Hamidouche, A. Venkatesh, and D. K. Panda,
-_Efficient Large Message Broadcast using NCCL and CUDA-Aware
-MPI for Deep Learning_, 23rd European MPI Users' Group
-Meeting (*EuroMPI '16*), Sep 2016. *Best Paper Runner-Up*.
-
-
-=== All Publications
+== All Publications
 
 _Most updated list of publications is available from my https://scholar.google.com/citations?user=JM_IZzQAAAAJ&hl=en[Google Scholar] page._
 
-====  Journal Articles
+===  Journal Articles
  
 . *A. A. Awan*, A. Jain, C-H Chu, H. Subramoni, and DK Panda,
 _Communication Profiling and Characterization of Deep
@@ -213,7 +219,7 @@ Eui-Nam Huh, _Privacy-aware searching with oblivious term
 matching for cloud storage_, Journal of Supercomputing, Vol.
 63, Issue 2, Pages 538–560, Feb 2013.
  
-==== Refereed Conference/Workshop Papers
+=== Refereed Conference/Workshop Papers
  
 . A. Jain, *A. A. Awan*, H. Subramoni, and DK Panda, _Scaling
 TensorFlow, PyTorch, and MXNet using MVAPICH2 for
@@ -332,7 +338,7 @@ Computing, Applications and Technologies (PDCAT '12), Dec
 Conference on Ubiquitous Information Management and
 Communication (ICUIMC '12), Sep 2012. 
 
-=== Posters
+== Posters
 
 . *A. A. Awan* and DK Panda, _Co-designing Communication
 Middleware and Deep Learning Frameworks for High-Performance
@@ -425,6 +431,7 @@ Hot Interconnects (HotI '17) Aug 28, 2017. (50)
 
 . ACM Student Member
 . IEEE Student Member
+. Message Passing Interface (MPI) Forum 
 
 === Reviewer
 
@@ -443,15 +450,10 @@ Hot Interconnects (HotI '17) Aug 28, 2017. (50)
 . MVAPICH Users Group Meeting (MUG) ’16, ’17, and ’19.
 . IEEE ICDCS 2015.
 
-=== Forums Attended
- 
-. Message Passing Interface (MPI) Forum (2015)
- 
 == Technical Skills
 
 * Strong programming skills in C and Java (SE)/Java for HPC.
-* Development experience in C++ and interaction of C, C++, and MPI (Caffe, OSU-Caffe, and OC-Caffe).
-* Basic Python programming
+* Development experience in C++ and interaction of C, C\++, and MPI.
 * Product-development experience (Skylight Software) using C and Win32 programming.
 * Experience of developing parallel programs using OpenMP, MPI and MPJ Express.
 * Familiar with C#, ASP.NET, Android SDK, PHP, MySQL, IBM Cell SDK, and PerfAPI (PAPI)/Perfex.
