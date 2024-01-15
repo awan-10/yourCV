@@ -1,108 +1,29 @@
 = Ammar Ahmad Awan
+
 :showtitle!:
 :address: 2015 Neil Ave. • Columbus • OH 43210 • USA
 :contact: +1 614 360 8349 • ammar.ahmad.awan@gmail.com
-:website: http://cse.osu.edu/~awan.10
+:website: https://awan-10.github.io
 
 _{address}_ +
 _{contact}_ +
 _{website}_
 
-== Research Interests
-
-My broad interests lie at the interesection of High
-Performance Computing (HPC) and Machine Learning (ML). I am
-actively investigating new approaches to improve performance
-and productivity of scalable software systems for HPC and
-ML.
-
-== Education
-
-*The Ohio State University (OSU), Columbus, Ohio, USA*
-
-Ph.D. in Computer Science and Engineering, Aug 2014—May 2020 (Expected)
-
-Advisor: http://cse.osu.edu/~panda/[D.K. Panda] • CGPA: 3.68/4.0
-
-Thesis: Co-designing MPI Middleware and DL Frameworks for
-High-Performance DNN Training on HPC Systems
-
-'''
-
-*Kyung Hee University (KHU), Suwon, South Korea*
-
-Master of Computer Engineering, 2011—2013 
-
-Advisor: http://uclab.khu.ac.kr/index_professor.php?ckattempt=1[Sungyoung Lee] • CGPA: 4.22/4.3
-
-Thesis: Efficient Support for Parallel File Access in Java HPC
- 
-'''
-
-*National University of Sciences and Technology (NUST), Islamabad, Pakistan*
-
-Bachelor of Information Technology, 2004—2008                       
-
-Advisor: https://scholar.google.com.pk/citations?user=V0XEUMAAAAAJ&hl=en[Aamir Shafi] • CGPA: 3.71/4.0
-
-Final Project: Optimizing N-body Simulations for Multicore Compute Clusters
-
-'''
-
-== Select Publications
-
-_I am the lead author of the following publications._
-
-. *A. A. Awan*, A. Jain, Q. Anthony, H. Subramoni, and DK
-Panda, _HyPar-Flow: Exploiting MPI and Keras for Scalable
-Hybrid-Parallel DNN Training using TensorFlow_, ISC
-High-Performance (*ISC '20*), June 2020 (Accepted to be
-presented).
-
-. *A. A. Awan*, C-H Chu, X. Lu, H. Subramoni, and D. K. Panda,
-_OC-DNN: Exploiting Advanced Unified Memory Capabilities in
-CUDA 9 and Volta GPUs for Out-of-Core DNN Training_, 25th
-IEEE International Conference on High-Performance Computing,
-Data, Analytics, and Data Science (*HiPC '18*) '18, Dec 2018.
-
-. *A. A. Awan*, C-H Chu, X. Lu, H. Subramoni, and DK Panda,
-_Can Unified-Memory support on Pascal and Volta GPUs enable
-Out-of-Core DNN Training?_, ISC High-Performance (*ISC
-'18*), June 2018. *Best Student Poster Award*.
-
-. *A. A. Awan*, K. Hamidouche, J. Hashmi, and D. K. Panda,
-_S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable
-Deep Learning on Modern GPU Clusters_, 22nd ACM SIGPLAN
-Symposium on Principles and Practice of Parallel Programming
-(*PPoPP '17*), Feb 2017.
-
-. *A. A. Awan*, K. Hamidouche, A. Venkatesh, and D. K. Panda,
-_Efficient Large Message Broadcast using NCCL and CUDA-Aware
-MPI for Deep Learning_, 23rd European MPI Users' Group
-Meeting (*EuroMPI '16*), Sep 2016. *Best Paper Runner-Up*.
-
-
-== Awards and Distinctions
-
-. _IEEE TCHPC Travel Award_ for presenting Doctoral Showcase at SC ’19.
-. _ACM Student Travel Award_ for participating in ACM Student Research Competition at SC ’17.
-. _NSF Student Travel Award_ for presenting S-Caffe at ACM PPoPP ‘17.
-. _Student Travel Award_ for presenting Tutorial at HotI ’17.
-. _Best Student Poster Award_ at ISC High-Performance Event (ISC ’19).
-. _Best Paper Runner-up_ at EuroMPI 2016, Edinburgh, UK.
-. _O’Donnell Fellowship_ (5/1,400 applicants) for
-first year of Ph.D. studies at The Ohio State University
-(2015).
-. _Global IT Talents Scholarship_ for Masters Degree in South Korea (2011 - 2013).
-. _President’s Gold Medal_ for highest CGPA in Bachelors Degree (NUST - 2008).
-. _Rector’s Gold Medal_ for Best Final Year Project (NUST - 2008).
-. _Best Industry Project Award_ for the Final Year Project at NUST-SEECS Open House '08.
-. _Merit Scholarship_ for 7 out of 8 semesters at NUST. (Awarded to students with 3.5 and above GPA).
-. _Third Prize_ for presenting Project: Constella Platinum at All Pakistan software competition - Softcom '06.
-. _Student Volunteer_ for SC ‘08, USA. (Selected but couldn’t travel).
-
-
 == Research and Development Experience
+
+My broad interests lie at the intersection of Artifical Intelligence (AI) systems and High
+Performance Computing (HPC). 
+
+* *Microsoft*
+
+** Principal Research Manager (Nov '23 - Present)
+
+*** Leading a diverse team of researchers and software engineers on investigating novel techniques for efficient inference of LLMs on GPUs and CPUs (DeepSpeed-FastGen)
+ 
+** Researcher (Jun '20 — Oct '23)
+
+*** Investigate Large-scale Communication and Computation challenges in the context of Machine and Deep Learning
+*** Contribute to design and implementation of a DeepSpeed; an open-source and scalable optimization library for training and inference of large-scale DL models including LLMs. 
 
 * *Network Based Computing Lab (http://nbcl.cse.ohio-state.edu) at The Ohio State University*
 
@@ -121,8 +42,8 @@ main _MVAPICH2_ codebase.
 *** Design new benchmarks to evaluate the capabilities of the MVAPICH2 MPI library as well as OSU-Caffe and other DL stacks like Horovod for TensorFlow and PyTorch on large-scale HPC systems.
 
 Note: _MVAPICH2_ is a popular and open-source MPI
-Library being used by more than 3,000 organizations around
-the world. It has been downloded 613,000 times directly from
+Library being used by more than 3,300 organizations around
+the world. It has been downloaded 1.7 million times directly from
 the project site (http://mvapich.cse.ohio-state.edu).
  
 * *X-Scale Solutions (http://x-scalesolutions.com), Columbus, OH*
@@ -175,12 +96,88 @@ development delays faced by the company.
 
 *** Analyzed and profiled performance of Gadget-2 code and proposed hybrid-parallelism to speed-up the simulations on multi-core clusters.
 
+
+== Education
+
+*The Ohio State University (OSU), Columbus, Ohio, USA*
+
+Ph.D. in Computer Science and Engineering, Aug 2014—May 2020 (Expected)
+
+Advisor: http://cse.osu.edu/~panda/[D.K. Panda] • CGPA: 3.68/4.0
+
+Thesis: Co-designing MPI Middleware and DL Frameworks for
+High-Performance DNN Training on HPC Systems
+
+'''
+
+*Kyung Hee University (KHU), Suwon, South Korea*
+
+Master of Computer Engineering, 2011—2013 
+
+Advisor: http://uclab.khu.ac.kr/index_professor.php?ckattempt=1[Sungyoung Lee] • CGPA: 4.22/4.3
+
+Thesis: Efficient Support for Parallel File Access in Java HPC
+ 
+'''
+
+*National University of Sciences and Technology (NUST), Islamabad, Pakistan*
+
+Bachelor of Information Technology, 2004—2008                       
+
+Advisor: https://scholar.google.com.pk/citations?user=V0XEUMAAAAAJ&hl=en[Aamir Shafi] • CGPA: 3.71/4.0
+
+Final Project: Optimizing N-body Simulations for Multicore Compute Clusters
+
+'''
+
+== Select Publications
+
+_I am the lead author of the following publications._
+
+. *A. A. Awan*, A. Jain, Q. Anthony, H. Subramoni, and DK
+Panda, _HyPar-Flow: Exploiting MPI and Keras for Scalable
+Hybrid-Parallel DNN Training using TensorFlow_, ISC
+High-Performance (*ISC '20*), June 2020 (Accepted to be
+presented).
+
+. *A. A. Awan*, K. Hamidouche, J. Hashmi, and D. K. Panda,
+_S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable
+Deep Learning on Modern GPU Clusters_, 22nd ACM SIGPLAN
+Symposium on Principles and Practice of Parallel Programming
+(*PPoPP '17*), Feb 2017.
+
+. *A. A. Awan*, K. Hamidouche, A. Venkatesh, and D. K. Panda,
+_Efficient Large Message Broadcast using NCCL and CUDA-Aware
+MPI for Deep Learning_, 23rd European MPI Users' Group
+Meeting (*EuroMPI '16*), Sep 2016. *Best Paper Runner-Up*.
+
+
+== Awards and Distinctions
+
+. _IEEE TCHPC Travel Award_ for presenting Doctoral Showcase at SC ’19.
+. _ACM Student Travel Award_ for participating in ACM Student Research Competition at SC ’17.
+. _NSF Student Travel Award_ for presenting S-Caffe at ACM PPoPP ‘17.
+. _Student Travel Award_ for presenting Tutorial at HotI ’17.
+. _Best Student Poster Award_ at ISC High-Performance Event (ISC ’19).
+. _Best Paper Runner-up_ at EuroMPI 2016, Edinburgh, UK.
+. _O’Donnell Fellowship_ (5/1,400 applicants) for
+first year of Ph.D. studies at The Ohio State University
+(2015).
+. _Global IT Talents Scholarship_ for Masters Degree in South Korea (2011 - 2013).
+. _President’s Gold Medal_ for highest CGPA in Bachelors Degree (NUST - 2008).
+. _Rector’s Gold Medal_ for Best Final Year Project (NUST - 2008).
+. _Best Industry Project Award_ for the Final Year Project at NUST-SEECS Open House '08.
+. _Merit Scholarship_ for 7 out of 8 semesters at NUST. (Awarded to students with 3.5 and above GPA).
+. _Third Prize_ for presenting Project: Constella Platinum at All Pakistan software competition - Softcom '06.
+. _Student Volunteer_ for SC ‘08, USA. (Selected but couldn’t travel).
+
+
 == Teaching and Mentoring Experience
 
 * Mentored undergradute and graduate students at The Ohio State University to work on various research and development projects.
 
-** Arpan Jain, Ph.D. student at OSU 
-** Quentin Anthony, Ph.D. Student at OSU
+** Arpan Jain, Ph.D. student at OSU (Microsoft)
+** Quentin Anthony, Ph.D. Student at OSU (EleutherAI)
 ** Vardaan Gangal, B.S Student at OSU
 
 * Mentored seven prospective M.S and Ph.D. students for GradAppLab (http://gradapplab.pk)
@@ -225,8 +222,7 @@ matching for cloud storage_, Journal of Supercomputing, Vol.
 . *A. A. Awan*, A. Jain, Q. Anthony, H. Subramoni, and DK
 Panda, _HyPar-Flow: Exploiting MPI and Keras for Scalable
 Hybrid-Parallel DNN Training using TensorFlow_, ISC
-High-Performance (*ISC '20*), June 2020 (Accepted to be
-presented).
+High-Performance (*ISC '20*), June 2020.
 
 . A. Jain, *A. A. Awan*, H. Subramoni, and DK Panda, _Scaling
 TensorFlow, PyTorch, and MXNet using MVAPICH2 for
@@ -402,9 +398,6 @@ at CECOS University, Peshawar, Pakistan, Feb 2014.
  
 _Number of Attendees are in parentheses._
 
-
-. _High Performance Distributed Deep Learning: A Beginner’s Guide_, NVIDIA GTC ’20 (Accepted; To be presented).
-
 . _High Performance Distributed Deep Learning_, PPoPP '20, Feb 2020. (25)
 
 . _High Performance Distributed Deep Learning: A Beginner’s
@@ -481,6 +474,8 @@ Hot Interconnects (HotI '17) Aug 28, 2017. (50)
 
 == References
 
+. Yuxiong He, Former DeepSpeed lead at Microsoft.
+
 . Dhabaleswar Kumar (DK) Panda, Professor.
  
  Dept. of Computer Science and Engineering
@@ -492,18 +487,3 @@ Hot Interconnects (HotI '17) Aug 28, 2017. (50)
  Website: http://web.cse.ohio-state.edu/~panda.2/
  Twitter: @dhabalkpanda
 
-. Gagan Agrawal, Professor.
-
- School of Computer and Cyber Sciences
- Augusta University
- Augusta, GA 30912, USA
- Email: gagrawal@augusta.edu
-
-. Radu Teodorescu, Associate Professor.
-
- Dept. of Computer Science and Engineering
- The Ohio State University 
- 2015 Neil Avenue 
- Columbus, OH-43210, USA 
- Email: teodores@cse.ohio-state.edu
- Website: http://web.cse.ohio-state.edu/~teodorescu.1/
