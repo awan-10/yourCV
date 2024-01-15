@@ -1,7 +1,7 @@
 = Ammar Ahmad Awan
 
 :showtitle!:
-:address: 2015 Neil Ave. • Columbus • OH 43210 • USA
+:address: Richardson • TX 75082 • USA
 :contact: +1 614 360 8349 • ammar.ahmad.awan@gmail.com
 :website: https://awan-10.github.io
 
@@ -11,30 +11,34 @@ _{website}_
 
 == Research and Development Experience
 
-My broad interests lie at the intersection of Artifical Intelligence (AI) systems and High
-Performance Computing (HPC). 
+My broad interests lie at the intersection of novel system optimization techniques explored by High Performance Computing (HPC) researchers and emerging strategies to train and serve large-scale Artificial Intelligence (AI) models including Large Language Models (LLMs) at scale.
 
-* *Microsoft*
+* *DeepSpeed (http://www.deepspeed.ai) at Microsoft*
 
 ** Principal Research Manager (Nov '23 - Present)
 
-*** Leading a diverse team of researchers and software engineers on investigating novel techniques for efficient inference of LLMs on GPUs and CPUs (DeepSpeed-FastGen)
+*** Leading a diverse team of researchers and software engineers. We work together to investigate novel techniques for efficient inference of AI models including LLMs on GPUs and CPUs.
+*** Latest public blog: https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen
  
-** Researcher (Jun '20 — Oct '23)
+** Senior Researcher (Jun '20 — Oct '23)
 
-*** Investigate Large-scale Communication and Computation challenges in the context of Machine and Deep Learning
-*** Contribute to design and implementation of a DeepSpeed; an open-source and scalable optimization library for training and inference of large-scale DL models including LLMs. 
+*** Investigate communication and computation challenges in the context of Machine/
+Deep Learning (ML/DL) at scale.
+
+*** Contribute to design and implementation of various aspects of DeepSpeed; an open-source and scalable optimization library for training and inference of diverse AI models including LLMs. 
+
+*** Lead investigator and maintainer of Mixture of Experts (MoE) model support in DeepSpeed.
 
 * *Network Based Computing Lab (http://nbcl.cse.ohio-state.edu) at The Ohio State University*
 
-** Graduate Research Assistant (Aug ‘14 – present)
+** Graduate Research Assistant (Aug '14 – May '20)
 
 *** Investigate Collective Communication Designs and
 Implementations for CUDA-Aware MPI libraries like _MVAPICH2_
 and _MVAPICH2-GDR_.
 *** Co-design Deep Learning frameworks like Caffe and MPI
 runtimes like _MVAPICH2_ to enable efficient distributed Deep Learning on modern GPU clusters.
-*** Utilize existing benchmark suites like OSU Microbenchmarks (OMB), Intel MPI benchmarks (IMB) and test suites like MPICH tests, Intel tests, etc. to rigorously test and evaluate new designs on multiple HPC systems with diverse set of CPU and GPU architectures.
+*** Utilize existing benchmark suites like OSU Micro-benchmarks (OMB), Intel MPI benchmarks (IMB) and test suites like MPICH tests, Intel tests, etc. to rigorously test and evaluate new designs on multiple HPC systems with diverse set of CPU and GPU architectures.
 *** Perform regression/sanity testing on software stacks
 that are released periodically as new features from several
 research students and staff are developed and pushed to the
@@ -48,7 +52,7 @@ the project site (http://mvapich.cse.ohio-state.edu).
  
 * *X-Scale Solutions (http://x-scalesolutions.com), Columbus, OH*
 
-** Research Intern (May ‘19—Aug ’19)
+** Research Intern (May '19 — Aug '19)
 
 *** Conducted in-depth performance characterization of
 TensorFlow/Horovod on Large Scale HPC Systems like Summit
@@ -101,7 +105,7 @@ development delays faced by the company.
 
 *The Ohio State University (OSU), Columbus, Ohio, USA*
 
-Ph.D. in Computer Science and Engineering, Aug 2014—May 2020 (Expected)
+Ph.D. in Computer Science and Engineering, Aug 2014 — May 2020.
 
 Advisor: http://cse.osu.edu/~panda/[D.K. Panda] • CGPA: 3.68/4.0
 
@@ -174,7 +178,7 @@ first year of Ph.D. studies at The Ohio State University
 
 == Teaching and Mentoring Experience
 
-* Mentored undergradute and graduate students at The Ohio State University to work on various research and development projects.
+* Mentored undergraduate and graduate students at The Ohio State University to work on various research and development projects.
 
 ** Arpan Jain, Ph.D. student at OSU (Microsoft)
 ** Quentin Anthony, Ph.D. Student at OSU (EleutherAI)
@@ -463,19 +467,23 @@ Hot Interconnects (HotI '17) Aug 28, 2017. (50)
 
 == Technical Skills
 
-* Strong programming skills in C and Java (SE)/Java for HPC.
+* Proven people management and project management experience (Gained as part of leading the DeepSpeed team in the tech. lead role and now as a People Manager at Microsoft). 
+* Strong programming skills in Python, C, Java, and Java for HPC.
 * Development experience in C++ and interaction of C, C\++, and MPI.
 * Product-development experience (Skylight Software) using C and Win32 programming.
 * Experience of developing parallel programs using OpenMP, MPI and MPJ Express.
 * Familiar with C#, ASP.NET, Android SDK, PHP, MySQL, IBM Cell SDK, and PerfAPI (PAPI)/Perfex.
 * Understanding of web technologies including HTML, DHTML, CSS, XML, XSLT and XPath.
 * Strong communication and presentation skills
-** Delivered several elaborate presentations on technical projects like OSU-Caffe, High-Performance Deep Learning (HiDL), MVAPICH2, Constella, Gadget-2, Oil Reservoir Simulators, and MPJ-IO.
+** Delivered several elaborate presentations on technical projects like DeepSpeed, FastGen, OSU-Caffe, High-Performance Deep Learning (HiDL), MVAPICH2, Constella, Gadget-2, Oil Reservoir Simulators, and MPJ-IO.
 
 == References
 
-. Yuxiong He, Former DeepSpeed lead at Microsoft.
-
+. Yuxiong He
+ 
+ Former DeepSpeed lead at Microsoft.
+ LinkedIn: https://www.linkedin.com/in/yuxiong-he-75432112/
+ 
 . Dhabaleswar Kumar (DK) Panda, Professor.
  
  Dept. of Computer Science and Engineering
